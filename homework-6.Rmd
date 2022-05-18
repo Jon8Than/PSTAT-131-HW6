@@ -21,7 +21,7 @@ The [Pokémon](https://www.pokemon.com/us/) franchise encompasses video games, T
 
 Each Pokémon has a [primary type](https://bulbapedia.bulbagarden.net/wiki/Type) (some even have secondary types). Based on their type, a Pokémon is strong against some types, and vulnerable to others. (Think rock, paper, scissors.) A Fire-type Pokémon, for example, is vulnerable to Water-type Pokémon, but strong against Grass-type.
 
-![Fig 1. Zororak, the Dark Illusion Fox Pokémon from Generation 5.](images/Zoroark.jpg){width="200"}
+![Fig 1. Zororak, the Dark Illusion Fox Pokémon from Generation 5.](Zoroark.jpg){width="200"}
 
 The goal of this assignment is to build a statistical learning model that can predict the **primary type** of a Pokémon based on its generation, legendary status, and six battle statistics.
 
